@@ -1,3 +1,3 @@
 # GabrielFanti
-In this repository, I will be posting all the algorithms that I created to learn and practice.
+In this branch, I will be posting all the algorithms that I created to complete the Advent Of Code 2023.
 The current language is Java.
